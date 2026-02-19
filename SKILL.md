@@ -3,8 +3,9 @@ name: tradition-mixing
 description: A methodology for combining disparate cultural, artistic, and intellectual sources into new forms where the origins blur and something genuinely new emerges.
 license: MIT
 metadata:
+  version: 1.0.5211
   author: sethmblack
-  version: 1.0.1
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - compression
 - tradition-mixing
